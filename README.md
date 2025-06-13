@@ -1,49 +1,49 @@
-# 👋 Hola! / ¡Hola! / Hi!
+# Pol Boncompte
 
 ---
 
-## 🇦🇩 Català
+## 👋 Hola!
 
 🎓 **Soc en Pol Boncompte**, estudiant d’Enginyeria Informàtica a la UPC (Barcelona).  
-💻 Apassionat pel desenvolupament de programari, especialment d’apps mòbils i videojocs.  
+💻 Especialitzat en Enginyeria del Programari  
 🌐 Experiència amb C++, Python, Dart (Flutter), React, Django i SQL.
 
 ### 📌 Projectes destacats
-- [Aplicació mòbil Flutter](ENLLAÇ_REPO_APP)
-- [Videojoc 2D](ENLLAÇ_REPO_2D)
-- [Videojoc 3D](ENLLAÇ_REPO_3D)
+- [CultuCat](ENLLAÇ_REPO_APP): aplicació mòbil, frontend amb Dart i backend amb Django
+- [Videojoc 2D](ENLLAÇ_REPO_2D): joc de plataformes desenvolupat en OpenGL c++
+- [Videojoc 3D](ENLLAÇ_REPO_3D): videojoc en 3D desenvolupat amb Unity 
 
 Sempre buscant nous reptes i oportunitats per aprendre i créixer.  
 📫 Contacta amb mi: [polboncomptedz@gmail.com](mailto:polboncomptedz@gmail.com)
 
 ---
 
-## 🇪🇸 Español
+## 👋 ¡Hola!
 
 🎓 **Soy Pol Boncompte**, estudiante de Ingeniería Informática en la UPC (Barcelona).  
-💻 Apasionado por el desarrollo de software, especialmente apps móviles y videojuegos.  
+💻 Especializado en Ingeniería del Software  
 🌐 Experiencia en C++, Python, Dart (Flutter), React, Django y SQL.
 
 ### 📌 Proyectos destacados
-- [Aplicación móvil en Flutter](ENLACE_REPO_APP)
-- [Videojuego 2D](ENLACE_REPO_2D)
-- [Videojuego 3D](ENLACE_REPO_3D)
+- [CultuCat](ENLACE_REPO_APP): aplicación móvil, frontend con Dart y backend con Django
+- [Videojuego 2D](ENLACE_REPO_2D): juego de plataformas desarrollado en OpenGL c++
+- [Videojuego 3D](ENLACE_REPO_3D): videojuego 3D desarrollado con Unity
 
 Siempre en busca de nuevos retos y oportunidades para aprender y crecer.  
 📫 Contacto: [polboncomptedz@gmail.com](mailto:polboncomptedz@gmail.com)
 
 ---
 
-## 🇬🇧 English
+## 👋 Hi!
 
 🎓 **I'm Pol Boncompte**, Computer Engineering student at UPC (Barcelona).  
-💻 Passionate about software development, especially mobile apps and video games.  
+💻 Specialized in Software Engineering  
 🌐 Experienced with C++, Python, Dart (Flutter), React, Django, and SQL.
 
 ### 📌 Featured Projects
-- [Flutter Mobile App](LINK_REPO_APP)
-- [2D Video Game](LINK_REPO_2D)
-- [3D Video Game](LINK_REPO_3D)
+- [CultuCat](LINK_REPO_APP): mobile application, frontend with Dart and backend with Django
+- [2D Video Game](LINK_REPO_2D): platformer game developed in OpenGL c++
+- [3D Video Game](LINK_REPO_3D): 3D game developed with Unity
 
 Always looking for new challenges and opportunities to learn and grow.  
 📫 Contact: [polboncomptedz@gmail.com](mailto:polboncomptedz@gmail.com)
