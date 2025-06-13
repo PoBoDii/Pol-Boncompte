@@ -11,7 +11,7 @@
 ### 📌 Projectes destacats
 - [CultuCat](ENLLAÇ_REPO_APP): aplicació mòbil, frontend amb Dart i backend amb Django
 - [Videojoc 2D](ENLLAÇ_REPO_2D): joc de plataformes desenvolupat en OpenGL c++
-- [Videojoc 3D](ENLLAÇ_REPO_3D): videojoc en 3D desenvolupat amb Unity 
+- [Videojoc 3D](https://github.com/PoBoDii/Pokenoid-3D): videojoc en 3D desenvolupat amb Unity 
 
 Sempre buscant nous reptes i oportunitats per aprendre i créixer.  
 📫 Contacta amb mi: [polboncomptedz@gmail.com](mailto:polboncomptedz@gmail.com)
@@ -27,7 +27,7 @@ Sempre buscant nous reptes i oportunitats per aprendre i créixer.
 ### 📌 Proyectos destacados
 - [CultuCat](ENLACE_REPO_APP): aplicación móvil, frontend con Dart y backend con Django
 - [Videojuego 2D](ENLACE_REPO_2D): juego de plataformas desarrollado en OpenGL c++
-- [Videojuego 3D](ENLACE_REPO_3D): videojuego 3D desarrollado con Unity
+- [Videojuego 3D](https://github.com/PoBoDii/Pokenoid-3D): videojuego 3D desarrollado con Unity
 
 Siempre en busca de nuevos retos y oportunidades para aprender y crecer.  
 📫 Contacto: [polboncomptedz@gmail.com](mailto:polboncomptedz@gmail.com)
@@ -43,7 +43,7 @@ Siempre en busca de nuevos retos y oportunidades para aprender y crecer.
 ### 📌 Featured Projects
 - [CultuCat](LINK_REPO_APP): mobile application, frontend with Dart and backend with Django
 - [2D Video Game](LINK_REPO_2D): platformer game developed in OpenGL c++
-- [3D Video Game](LINK_REPO_3D): 3D game developed with Unity
+- [3D Video Game](https://github.com/PoBoDii/Pokenoid-3D): 3D game developed with Unity
 
 Always looking for new challenges and opportunities to learn and grow.  
 📫 Contact: [polboncomptedz@gmail.com](mailto:polboncomptedz@gmail.com)
